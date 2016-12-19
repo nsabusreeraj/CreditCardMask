@@ -1,0 +1,5 @@
+C:\Git\Kata\CreditCardMask\CreditCardMask\bin\Debug\CreditCardMask.exe.config
+C:\Git\Kata\CreditCardMask\CreditCardMask\bin\Debug\CreditCardMask.exe
+C:\Git\Kata\CreditCardMask\CreditCardMask\bin\Debug\CreditCardMask.pdb
+C:\Git\Kata\CreditCardMask\CreditCardMask\obj\Debug\CreditCardMask.exe
+C:\Git\Kata\CreditCardMask\CreditCardMask\obj\Debug\CreditCardMask.pdb

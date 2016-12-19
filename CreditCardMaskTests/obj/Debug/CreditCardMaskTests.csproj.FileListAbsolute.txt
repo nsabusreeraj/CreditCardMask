@@ -1,0 +1,8 @@
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\obj\Debug\CreditCardMaskTests.csprojResolveAssemblyReference.cache
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\bin\Debug\CreditCardMaskTests.dll
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\bin\Debug\CreditCardMaskTests.pdb
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\bin\Debug\CreditCardMask.exe
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\bin\Debug\CreditCardMask.pdb
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\obj\Debug\CreditCardMaskTests.dll
+C:\Git\Kata\CreditCardMask\CreditCardMaskTests\obj\Debug\CreditCardMaskTests.pdb
